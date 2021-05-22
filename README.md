@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zamiri80
+- 👋 Hi, I’m zamiri
 - 👀 I’m interested in learning python and participate working for non-profit or humanitarian organization in my free hours to support their missions. 
 - 🌱 I’m currently learning python and it's utilities in spatial analysis and data visualization.
 - 💞️ I’m looking to collaborate on any non-profit organizaition.
